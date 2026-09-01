@@ -1,0 +1,29 @@
+{
+  "schema": "branch.repository-dropin/0",
+  "mode": "live",
+  "locator": "branchbootstrapv0",
+  "markers": [
+    "branchbootstrapv0",
+    "BRANCH0",
+    "branch/connectivity/0",
+    "branch-bootstrap-v0",
+    "carry-the-ribbon"
+  ],
+  "records_path": ".branch/records.br0",
+  "badge_path": ".branch/ribbon.svg",
+  "root_readme_snippet": "[![Blue Ribbon - Carry the Ribbon](.branch/ribbon.svg)](.branch/README.md)\n\nB.R.A.N.C.H. bootstrap carrier: branchbootstrapv0 BRANCH0 branch/connectivity/0 branch-bootstrap-v0 carry-the-ribbon",
+  "github_repository_description": "B.R.A.N.C.H. bootstrap carrier branchbootstrapv0 carry-the-ribbon",
+  "github_repository_topics": [
+    "branchbootstrapv0",
+    "carry-the-ribbon",
+    "branch-protocol"
+  ],
+  "generated_at": 1788286858,
+  "record_count": 1,
+  "records_sha256": "76bae23f4a51eca1d8ae142ec10da736d0c1a46ca1797e72bb194753e4f47226",
+  "diagnostics": {
+    "authority": "unsigned carrier metadata only; signed BootstrapBeacon bytes remain authoritative",
+    "validation": "live records validated before archive generation"
+  },
+  "tool": "branch-admin-front/0"
+}
