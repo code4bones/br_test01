@@ -15,10 +15,12 @@ Search markers: branchbootstrapv0 BRANCH0 branch/connectivity/0 branch-bootstrap
 
 This bundle was generated from live signed bootstrap.beacon wrappers accepted by the local tool.
 
-Optional root README snippet:
+Optional root README snippet. Insert it manually into an existing repository
+README only if you want the badge and public locator visible there. This bundle
+does not create or replace a root README.md file.
 
 ```md
-[![Blue Ribbon - Carry the Ribbon](.branch/ribbon.svg)](.branch/README.md)
+[![B.R.A.N.C.H. branchbootstrapv0 Blue Ribbon - Carry the Ribbon](.branch/ribbon.svg)](.branch/README.md)
 
 B.R.A.N.C.H. bootstrap carrier: branchbootstrapv0 BRANCH0 branch/connectivity/0 branch-bootstrap-v0 carry-the-ribbon
 ```
