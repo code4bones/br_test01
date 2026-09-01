@@ -14,13 +14,11 @@
   "root_readme_snippet": "[![B.R.A.N.C.H. Blue Ribbon - Carry the Ribbon](.branch/ribbon.svg)](.branch/README.md)",
   "github_repository_description": "B.R.A.N.C.H. bootstrap carrier branchbootstrapv0 carry-the-ribbon",
   "github_repository_topics": [
-    "branchbootstrapv0",
-    "carry-the-ribbon",
-    "branch-protocol"
+    "branchbootstrapv0"
   ],
-  "generated_at": 1788291449,
+  "generated_at": 1788292840,
   "record_count": 1,
-  "records_sha256": "2c3a5e2ba8d5532bfccc231e9fc4377a8c8c6c95daa9b16f3a7811ba24eccd13",
+  "records_sha256": "a4e1585177c00c727718261b258d35b6e037f2a05aed360e631e277485b7fd8b",
   "diagnostics": {
     "authority": "unsigned carrier metadata only; signed BootstrapBeacon bytes remain authoritative",
     "validation": "live records validated before archive generation"

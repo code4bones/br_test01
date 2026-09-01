@@ -32,7 +32,7 @@ B.R.A.N.C.H. bootstrap carrier branchbootstrapv0 carry-the-ribbon
 Suggested GitHub topics:
 
 ```text
-branchbootstrapv0, carry-the-ribbon, branch-protocol
+branchbootstrapv0
 ```
 
 The signed records are stored in `.branch/records.br0`. Repository ownership,
