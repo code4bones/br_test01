@@ -18,9 +18,9 @@
     "carry-the-ribbon",
     "branch-protocol"
   ],
-  "generated_at": 1788290661,
+  "generated_at": 1788291449,
   "record_count": 1,
-  "records_sha256": "50ca5061e197cca70d4998a30788adad1b56d53c179287058157d43deea21499",
+  "records_sha256": "2c3a5e2ba8d5532bfccc231e9fc4377a8c8c6c95daa9b16f3a7811ba24eccd13",
   "diagnostics": {
     "authority": "unsigned carrier metadata only; signed BootstrapBeacon bytes remain authoritative",
     "validation": "live records validated before archive generation"
